@@ -1,0 +1,1 @@
+add_executable(knight_chase main.c)
