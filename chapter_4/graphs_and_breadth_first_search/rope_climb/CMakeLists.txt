@@ -1,1 +1,1 @@
-add_executable(rope_climb main.c)
+add_executable(rope_climb solution_1.c)

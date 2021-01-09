@@ -1,1 +1,1 @@
-add_executable(knight_chase main.c)
+add_executable(knight_chase solution.c)
