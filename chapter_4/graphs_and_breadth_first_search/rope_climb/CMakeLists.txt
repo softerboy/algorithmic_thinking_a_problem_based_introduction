@@ -1,0 +1,1 @@
+add_executable(rope_climb main.c)
