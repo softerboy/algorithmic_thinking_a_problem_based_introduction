@@ -1,1 +1,2 @@
 add_executable(rope_climb solution_1.c)
+add_executable(rope_climb_optimized solution_2.c)

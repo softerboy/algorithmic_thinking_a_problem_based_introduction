@@ -11,7 +11,7 @@ void add_position(int from_height, int to_height, int max_height,
                   positions new_positions, int *num_new_positions,
                   const int itching[], rope min_moves);
 
-void solve(int target_height, rope min_moves);
+void solve(int target_height, const rope min_moves);
 
 int main() {
   int target_height, jump_distance, num_itching_sections;
@@ -72,7 +72,7 @@ void add_position(int from_height, int to_height, int max_height,
   }
 }
 
-void solve(int target_height, rope min_moves) {
+void solve(int target_height, const rope min_moves) {
   int best = -1;
   for (int i = target_height; i < target_height * 2; ++i)
     if (min_moves[i] != -1 && (best == -1 || min_moves[i] < best))
