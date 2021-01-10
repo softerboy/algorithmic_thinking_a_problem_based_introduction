@@ -1,0 +1,1 @@
+add_executable(book_translation solution.c)

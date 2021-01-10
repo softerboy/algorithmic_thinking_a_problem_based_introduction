@@ -1,2 +1,3 @@
 add_subdirectory(knight_chase)
 add_subdirectory(rope_climb)
+add_subdirectory(book_translation)

@@ -25,7 +25,7 @@ Problems:
 Problems:
 - [Knight Chase](chapter_4/graphs_and_breadth_first_search/knight_chase)
 - [Rope Climb](chapter_4/graphs_and_breadth_first_search/rope_climb)
-- Book Translation
+- [Book Translation](chapter_4/graphs_and_breadth_first_search/book_translation)
 ---
 ##### Chapter 5. SHORTEST PATH IN WEIGHTED GRAPHS
 Problems:

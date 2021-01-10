@@ -24,8 +24,8 @@ The input contains one test case, consisting of the following lines:
 - A line containing three integers _h_, _j_, and _n_. _h_ tells us the minimum height that Bob must reach, _j_ is the
 distance that Bob can jump up, and _n_ is the number of segments on which Alice has spread itching powder. Each of these
 integers is at most 1,000,000, and _j_ is at most _h_.
-- _n_ lines, each of which contains two integers. The first integer gives the starting height for a segment of the rope with
-itching powder; the second gives the ending height. Each of these integers is at most _h_ - 1.
+- _n_ lines, each of which contains two integers. The first integer gives the starting height for a segment of the rope
+with itching powder; the second gives the ending height. Each of these integers is at most _h_ - 1.
 
 ---
 #### Output
