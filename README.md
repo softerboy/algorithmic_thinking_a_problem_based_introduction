@@ -5,7 +5,7 @@ _**Education purpose only**_
 
 ##### Chapter 1. HASH TABLES
 Problems:
-- Unique Snowflakes
+- [Unique Snowflakes](chapter_1/hash_tables/unique_snowflakes)
 - Compound words
 - Spelling check: Deleting a Letter
 ---
