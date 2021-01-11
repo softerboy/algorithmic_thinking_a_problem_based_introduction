@@ -1,1 +1,1 @@
-add_executable(compound_words solution.c)
+add_executable(compound_words solution.c ${PROJECT_SOURCE_DIR}/common/utils.h ${PROJECT_SOURCE_DIR}/common/utils.c)

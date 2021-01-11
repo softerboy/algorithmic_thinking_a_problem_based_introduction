@@ -6,7 +6,7 @@ _**Education purpose only**_
 ##### Chapter 1. HASH TABLES
 Problems:
 - [Unique Snowflakes](chapter_1/hash_tables/unique_snowflakes)
-- Compound words
+- [Compound words](chapter_1/hash_tables/compound_words)
 - Spelling check: Deleting a Letter
 ---
 ##### Chapter 2. TREE AND RECURSION
