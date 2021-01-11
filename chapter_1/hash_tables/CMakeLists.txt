@@ -1,1 +1,2 @@
 add_subdirectory(unique_snowflakes)
+add_subdirectory(compound_words)

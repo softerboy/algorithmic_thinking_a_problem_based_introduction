@@ -1,0 +1,1 @@
+add_executable(compound_words solution.c)
