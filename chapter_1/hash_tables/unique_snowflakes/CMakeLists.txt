@@ -1,1 +1,2 @@
 add_executable(unique_snowflakes solution_1.c)
+add_executable(unique_snowflakes_2 solution_2.c)
