@@ -1,0 +1,1 @@
+add_executable(spelling_check solution.c)

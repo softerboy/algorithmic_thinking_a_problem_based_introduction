@@ -1,2 +1,3 @@
 add_subdirectory(unique_snowflakes)
 add_subdirectory(compound_words)
+add_subdirectory(spelling_check_deleting_a_letter)
