@@ -7,7 +7,7 @@ _**Education purpose only**_
 Problems:
 - [Unique Snowflakes](chapter_1/hash_tables/unique_snowflakes)
 - [Compound words](chapter_1/hash_tables/compound_words)
-- Spelling check: Deleting a Letter
+- [Spelling check: Deleting a Letter](chapter_1/hash_tables/spelling_check_deleting_a_letter)
 ---
 ##### Chapter 2. TREE AND RECURSION
 Problems:
