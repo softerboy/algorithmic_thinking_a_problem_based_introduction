@@ -1,0 +1,1 @@
+add_executable(halloween_haul solution.c)
