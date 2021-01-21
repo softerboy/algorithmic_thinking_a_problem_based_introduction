@@ -12,7 +12,7 @@ Problems:
 ##### Chapter 2. TREE AND RECURSION
 Problems:
 - [Halloween Haul](chapter_2/trees_and_recursion/halloween_haul)
-- Descendant Distance
+- [Descendant Distance](chapter_2/trees_and_recursion/descendant_distance)
 ---
 ##### Chapter 3. MEMOIZATION AND DYNAMIC PROGRAMMING
 Problems:
