@@ -1,0 +1,1 @@
+add_executable(burger_fervor solution.c)

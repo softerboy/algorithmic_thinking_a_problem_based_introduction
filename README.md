@@ -16,7 +16,7 @@ Problems:
 ---
 ##### Chapter 3. MEMOIZATION AND DYNAMIC PROGRAMMING
 Problems:
-- Burger Fervor
+- [Burger Fervor](chapter_3/memoization_and_dynamic_programming/burger_fervor)
 - Moneygrubbers
 - Hockey Rivalry
 - Ways to Pass
