@@ -1,1 +1,2 @@
 add_subdirectory(burger_fervor)
+add_subdirectory(moneygrubbers)
